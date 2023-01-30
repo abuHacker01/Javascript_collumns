@@ -240,7 +240,7 @@
 
 //// if else - to'g'ri yoki noto'g'riligiini tekshirib , unga qarab bergan xodisamizbi bajaradi ;
 
-/// Sytax of if else ?
+/// Syntax of if else ?
 
 ///          shart   qo'nlanma
 //            /         /
@@ -375,7 +375,7 @@
 
 /// array bu turli xil malumotlarni o'zida saqlovchi malumot turi xisoblanadi .
 
-/// verry simple sytax of array
+/// verry simple Syntax of array
 
 //// [...]
 
@@ -438,9 +438,9 @@
 
 /// Regular function :
 
-//// Regular fuction javascriptda deyarli eng ko'p ishlati bo'ladi chunki uning sytaxi - juda oson :
+//// Regular fuction javascriptda deyarli eng ko'p ishlati bo'ladi chunki uning Syntaxi - juda oson :
 
-///// Sytax of regular funcyion :
+///// Syntax of regular funcyion :
 
 // 
 //        function name
@@ -460,7 +460,7 @@
 
 //// arrow eng qisqa syntaxsga ega desaxam bo'ladi .
 
-///// Sytax of arrow funcyion :
+///// Syntax of arrow funcyion :
 
 //
 // ma'lum bir verable          parmetrlar
@@ -518,7 +518,7 @@
 //// va u xoxlagan turida kela oladi . Lekigin ko'pinch arrow xolatida keladi :
 ///// chunki uni sintaxi oson , xamda tuhunarli ;
 
-//// Sytax of callback :
+//// Syntax of callback :
 
 // function callMe(a, b) {
 //     console.log(a + b);
