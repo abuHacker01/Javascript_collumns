@@ -444,7 +444,7 @@
 
 ///// Syntax of regular funcyion :
 
-// 
+//
 //        function name
 //           |
 //           |  parametr
@@ -600,11 +600,11 @@
 //     let res = []                               |
 //     for (let i = 0; i < numbers.length; i++) { |
 //         if (numbers[i] !== params) {           |
-//             res.push(numbers[i])               |______bu biz xozirgacha bilgan 
-//         }                                      |      metodlar orqali qilinga 
+//             res.push(numbers[i])               |______bu biz xozirgacha bilgan
+//         }                                      |      metodlar orqali qilinga
 //     }                                          |
 //     console.log(res);                          |
-// }                                              | 
+// }                                              |
 // filterDoSegodnya(4)                            |
 
 ///// ana endi buni filterda qilingan varianti :
@@ -704,7 +704,9 @@
 
 /// biz objectni for loop bilan iterate qila olmaymiz . Uning uchun bizga (--for-in loop--)
 
-//// Syntax of for-in loop
+//// for in loop :
+
+///// Syntax of for-in loop :
 
 
 //     keyword
@@ -787,6 +789,8 @@
 ////// yani agar 1000-millisekund bersag xar 1000-millisekundda chiqadi
 
 ///// uni toxtatish uchun : clearInterval() ishlatiladi .
+
+
 
 // DOM - Document Object Module
 
