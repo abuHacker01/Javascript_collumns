@@ -72,6 +72,7 @@
 ///// Infinity.............=> avaScript-dagi eng katta son ;
 ///// -Infinity............=> avaScript-dagi eng kichkina son ;
 
+
 //// Amallar :
 
 ////// +..................=> qoshish ;
@@ -92,6 +93,7 @@
 //// Number.parseFloat....=> sonni butun qismini xam qoldiq qismini xam chiqarib beradi ;
 //// toFixed()...........=> sonni kasr qismidan nechtasini qaytarishni belgilaydi, yaxlitlab beradi , 5 ga qaraydi ;
 //// isNaN................=> NaN qaytishiga tekshiradi ;
+
 
 // Math qiymatlari :
 
